@@ -53,3 +53,24 @@ Here you will find a library with information, documents, books, software and th
 | MPC | Minot Planet Center | https://www.minorplanetcenter.net/db_search/ |
 | NASA Asteroid Watch | Eyes on Asteroids | https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids |
 | NASA HEASARC |  The High Energy Astrophysics Science Archive Research Center | https://heasarc.gsfc.nasa.gov/ |
+
+# Aerospace Agencies
+
+| Name | Description | Website |
+| ---- | ----------- | ------- |
+| NASA | National Aeronautics and Space Administration | https://www.nasa.gov/ |
+| ESA | European Space Agency | https://www.esa.int/ |
+| CSA | Canadian Space Agency | http://www.asc-csa.gc.ca/ |
+| DLR | German Aerospace Center | http://www.dlr.de/ |
+| CNSA | China National Space Administration | http://www.cnsa.gov.cn/ |
+| ROSCOSMOS | Russia Space Agency | https://www.roscosmos.ru |
+| AEXA | Mexico Space Agency | https://aexa.biz/index.html |
+| KARI | Korea Aerospace Research Institute | https://www.kari.re.kr/eng.do |
+| POLSA |  Polish Space Agency | https://polsa.gov.pl/ |
+| UKSA | UK Space Agency | https://www.gov.uk/ukspaceagency |
+| ISA | Israel Space Agency | http://space.gov.il/en |
+| ISRO | Indian Space Research Organization | http://www.isro.gov.in/ |
+| ASI | Italian Space Agency | http://www.asi.it/ |
+| AEB | Brazilian Space Agency | https://www.gov.br/aeb/pt-br |
+| JAXA | Japan Aerospace Exploration Agency | https://www.jaxa.jp/ |
+| CNES | French National Centre for Space Studies | https://cnes.fr/en/ |
