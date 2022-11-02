@@ -2,3 +2,42 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
 
 Here you will find a library with information, documents, books, software and things about astronomy.
+
+# NASA
+<img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg">
+
+| Name | Description | Website |
+| ---- | ----------- | ------- |
+| NASA | The National Aeronautics and Space Administration. | https://www.nasa.gov/ |
+| NASA Citizen Science | NASA’s citizen science projects are collaborations between scientists and interested members of the public. | https://science.nasa.gov/citizenscience |
+| NASA Science | Share the science | https://science.nasa.gov/ | 
+ | NASA IDL Astro | large libary with plenty of very useful code for astronomers | https://idlastro.gsfc.nasa.gov/ |
+ | NASA Gallery JPL | NASA Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system and the universe. | https://www.jpl.nasa.gov/images | 
+ | NASA International Space Station | International Space Station | https://www.nasa.gov/mission_pages/station/main/index.html |
+ | NASA Planetary Defense | Planetary Defense | https://www.nasa.gov/planetarydefense |
+ | NASA Capstone | Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment will help reduce risk for future spacecraft by validating innovative navigation technologies and verifying the dynamics of this halo-shaped orbit. | https://www.nasa.gov/directorates/spacetech/small_spacecraft/capstone |
+ | NASA Small-body database | Small-Body Database Lookup | https://ssd.jpl.nasa.gov/ |
+ | NASA Github | NASA projects in github | https://github.com/nasa |
+ | NASA Data | Catalog that holds metadata that describes open datasets from many different NASA data archives. | https://data.nasa.gov/ |
+ | NASA Code | Catalog containing metadata describing open source NASA code that is on github.com/nasa as well as other locations. | https://code.nasa.gov/ |
+ | NASA APIs | The objective of this site is to make NASA data, including imagery, eminently accessible to application developers. | https://api.nasa.gov/ |
+ | Hubble Space Telescope | A Hubble Space Telescope NASA | https://hubblesite.org/ |
+| NASA Climate | About the Climate | https://climate.nasa.gov/ |
+| NASA - Asteroid Watch | Managed for NASA at the Jet Propulsion Laboratory, the Center for Near Earth Object Studies (CNEOS) accurately characterizes the orbits of all known near-Earth objects | https://www.jpl.nasa.gov/asteroid-watch |
+| NASA - SOHO Images Database | Image the Solar And Heliospheric Observatory (SOHO) | https://soho.nascom.nasa.gov/ |
+
+# ESA
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ESA_logo.png/150px-ESA_logo.png">
+
+| Name | Description | Website |
+| ---- | ----------- | ------- |
+| ESA | The European Space Agency. | https://www.esa.int/ |
+| ESA Science | Science at the European Space Agency ESA. | http://www.esa.int/Science_Exploration/Space_Science |
+| ESAC |The ESA's center for Space Science | http://www.esa.int/About_Us/ESAC |
+| ESA Earth |  Earth Observation information discovery platform. | https://earth.esa.int/eogateway |
+| ESA Github | ESA Github projects | https://github.com/esa |
+| ESA Hubble | ESA Hubble Colaboration | https://esahubble.org/wordbank/asteroid/ |
+| ESA Gaia |  Mission to chart a three-dimensional map of the Milky Way. | https://sci.esa.int/web/gaia |
+
+ 
