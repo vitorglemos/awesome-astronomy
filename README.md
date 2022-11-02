@@ -40,4 +40,16 @@ Here you will find a library with information, documents, books, software and th
 | ESA Hubble | ESA Hubble Colaboration | https://esahubble.org/wordbank/asteroid/ |
 | ESA Gaia |  Mission to chart a three-dimensional map of the Milky Way. | https://sci.esa.int/web/gaia |
 
- 
+ # Catalogs / Databases
+
+| Name | Description | Website |
+| ---- | ----------- | ------- |
+| TNS | Transient Name Server (TNS) is the official IAU mechanism for reporting new astronomical transients such as supernova candidates | https://www.wis-tns.org/ |
+| NASA (NEOs Database) | This database show close approaches to the Earth by near-Earth objects (NEOs) | https://cneos.jpl.nasa.gov/ca/ |
+| ASIAGOSN  | Asiago Supernova Catalog | https://heasarc.gsfc.nasa.gov/W3Browse/all/asiagosn.html |
+| NASA/IPAC Extragalactic DB| An online astronomical database for astronomers that collates and cross-correlates astronomical information on extragalactic objects | http://ned.ipac.caltech.edu/ |
+| NASA/PDS | NASA Database by Solar System missions | https://pds.nasa.gov/ |
+| NASA JPL | JPL Small-Body Database (Asteroids/Comets)| https://ssd.jpl.nasa.gov/sbdb.cgi |
+| MPC | Minot Planet Center | https://www.minorplanetcenter.net/db_search/ |
+| NASA Asteroid Watch | Eyes on Asteroids | https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids |
+| NASA HEASARC |  The High Energy Astrophysics Science Archive Research Center | https://heasarc.gsfc.nasa.gov/ |
