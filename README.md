@@ -92,3 +92,9 @@ Here you will find a library with information, documents, books, software and th
 | IRIS Software | Free image processing software | http://www.astrosurf.com/buil/iris-software.html |
 | NASA Horizons System | Horizons System Web Application | https://ssd.jpl.nasa.gov/horizons/app.html#/ |
 | NASA Cosmographia| A SPICE-enhanced version of the open source visualization tool |  https://naif.jpl.nasa.gov/naif/cosmographia.html |
+
+## Observatories List
+| Name | Description | Website | 
+| ---- | ----------- | ------- |
+| Wikipedia Astronomical Observatories List | A list of astronomical observatories list by location| https://en.wikipedia.org/wiki/List_of_astronomical_observatories |
+| Wikipedia Astronomical Observatories (Asteroid Discovering) | A list of discoveries by observatories | https://en.wikipedia.org/wiki/List_of_asteroid-discovering_observatories |
