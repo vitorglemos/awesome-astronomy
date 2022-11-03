@@ -81,6 +81,8 @@ Here you will find a library with information, documents, books, software and th
 | Stellarium | A free and open source planetarium | http://stellarium.org/|
 | Pluto Project | Tools for asteroid astrometrists | https://www.projectpluto.com/fo.htm |
 | Astrometrica | Astrometrica is a interactive software tool for scientific grade astrometric data reduction of CCD images | http://iasc.cosmosearch.org/Home/Astrometrica |
+| Celestrak | Celestrak is the world's oldest source for orbital element sets | http://celestrak.org/ |
+| Space Physics Data Facility | Web-based services for survey and high resolution data and trajectories | https://spdf.gsfc.nasa.gov/data_orbits.html |
 | An Orbit Map of the Solar System | This week’s map shows the orbits of more than 18000 asteroids in the solar system | http://tabletopwhale.com/2019/06/10/the-solar-system.html |
 | Google Sky | The space version of Google's Earth application | https://www.google.com/sky/ |
 | Sky Map | A hand-held planetarium for your the Android device | https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en&gl=US | Heavens-Above | App provides you with precise pass predictions for the ISS, visible satellites and radio satellites | https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US |
