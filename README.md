@@ -3,7 +3,7 @@
 
 Here you will find a library with information, documents, books, software and things about astronomy.
 
-# NASA
+## NASA
 <img src="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg">
 
 | Name | Description | Website |
@@ -26,7 +26,7 @@ Here you will find a library with information, documents, books, software and th
 | NASA - Asteroid Watch | Managed for NASA at the Jet Propulsion Laboratory, the Center for Near Earth Object Studies (CNEOS) accurately characterizes the orbits of all known near-Earth objects | https://www.jpl.nasa.gov/asteroid-watch |
 | NASA - SOHO Images Database | Image the Solar And Heliospheric Observatory (SOHO) | https://soho.nascom.nasa.gov/ |
 
-# ESA
+## ESA
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ESA_logo.png/150px-ESA_logo.png">
 
@@ -40,7 +40,7 @@ Here you will find a library with information, documents, books, software and th
 | ESA Hubble | ESA Hubble Colaboration | https://esahubble.org/wordbank/asteroid/ |
 | ESA Gaia |  Mission to chart a three-dimensional map of the Milky Way. | https://sci.esa.int/web/gaia |
 
- # Catalogs / Databases
+ ## Catalogs / Databases
 
 | Name | Description | Website |
 | ---- | ----------- | ------- |
@@ -54,7 +54,7 @@ Here you will find a library with information, documents, books, software and th
 | NASA Asteroid Watch | Eyes on Asteroids | https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids |
 | NASA HEASARC |  The High Energy Astrophysics Science Archive Research Center | https://heasarc.gsfc.nasa.gov/ |
 
-# Aerospace Agencies
+## Aerospace Agencies
 
 | Name | Description | Website |
 | ---- | ----------- | ------- |
@@ -74,3 +74,19 @@ Here you will find a library with information, documents, books, software and th
 | AEB | Brazilian Space Agency | https://www.gov.br/aeb/pt-br |
 | JAXA | Japan Aerospace Exploration Agency | https://www.jaxa.jp/ |
 | CNES | French National Centre for Space Studies | https://cnes.fr/en/ |
+
+## APIs and Software
+| Name | Description | Website |
+| ---- | ----------- | ------- |
+| Stellarium | A free and open source planetarium | http://stellarium.org/|
+| Pluto Project | Tools for asteroid astrometrists | https://www.projectpluto.com/fo.htm |
+| Astrometrica | Astrometrica is a interactive software tool for scientific grade astrometric data reduction of CCD images | http://iasc.cosmosearch.org/Home/Astrometrica |
+| An Orbit Map of the Solar System | This week’s map shows the orbits of more than 18000 asteroids in the solar system | http://tabletopwhale.com/2019/06/10/the-solar-system.html |
+| Google Sky | The space version of Google's Earth application | https://www.google.com/sky/ |
+| Sky Map | A hand-held planetarium for your the Android device | https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en&gl=US | Heavens-Above | App provides you with precise pass predictions for the ISS, visible satellites and radio satellites | https://play.google.com/store/apps/details?id=com.heavens_above.viewer&hl=en&gl=US |
+| Night Sky | A stargazing reference app, where the user can explore a virtual representation of the night sky to identify stars, planets, constellations and satellites | https://apps.apple.com/us/app/night-sky/id475772902 |
+| NASA Naif | The Navigation and Ancillary Information Facility | https://naif.jpl.nasa.gov/naif/toolkit.html |
+| NASA Satellite | Small Satellite Information Search Datavase | https://s3vi.ndc.nasa.gov/ |
+| IRIS Software | Free image processing software | http://www.astrosurf.com/buil/iris-software.html |
+| NASA Horizons System | Horizons System Web Application | https://ssd.jpl.nasa.gov/horizons/app.html#/ |
+| NASA Cosmographia| A SPICE-enhanced version of the open source visualization tool |  https://naif.jpl.nasa.gov/naif/cosmographia.html |
