@@ -1,6 +1,29 @@
 # Awesome Astronomy
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
 
+## Telescope Images (PanSTARRS)
+
+| Galaxy | Classification | Distance (million light-years) | Name | Image |
+| --- | --- | --- | --- | --- |
+| NGC 224 | Sb | 2.5 | Andromeda Galaxy | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/NGC224.png"  width="300" height="300"> |
+| NGC 598 | Sc | 3 | Triangulum Galaxy | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/NGC598.png"  width="300" height="300"> |
+| Messier 87 | E0 | 54 | Virgo A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M87.png"  width="300" height="300"> |
+| Messier 49 | E2 | 56 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M49.png"  width="300" height="300"> |
+| Messier 31 | Sb | 2.5 | Andromeda Galaxy | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M31.png"  width="300" height="300"> |
+| Messier 106 | SAB(s)bc | 24.5 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M106.png"  width="300" height="300"> |
+| Messier 81 | Sb | 12 | Bode's Galaxy | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M81.png"  width="300" height="300"> |
+| Messier 101 | Scd | 22 | Pinwheel Galaxy | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M101.png"  width="300" height="300"> |
+| NGC 3370 | SAB(rs)bc | 98 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/NGC3370.png"  width="300" height="300"> |
+| Messier 109 | Sc | 83 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M109.png"  width="300" height="300"> |
+| Messier 58 | SAB(s)bc | 68 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M58.png"  width="300" height="300"> |
+| Messier 84 | E1 | 60 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M84.png"  width="300" height="300"> |
+| Messier 51 | E1 | 60 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M51.png"  width="300" height="300"> |
+| Messier 59 | E2 | 60 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M59.png"  width="300" height="300"> |
+| Messier 60 | E2 | 55 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M60.png"  width="300" height="300"> |
+| Messier 95 | Sab | 33 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M95.png"  width="300" height="300"> |
+| Messier 96 | SAB(s)bc | 31 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M96.png"  width="300" height="300"> |
+| Messier 88 | Sb | 47 | N/A | <img src="https://github.com/vitorglemos/awesome-astronomy/blob/main/telescope/M88.png"  width="300" height="300"> |
+
 Here you will find a library with information, documents, books, software and things about astronomy.
 
 ## NASA
